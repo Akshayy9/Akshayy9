@@ -19,7 +19,7 @@
 
 ## Connect With Me
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://linkedin.com/in/akshay-rajoriya">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=30" alt="LinkedIn" style="border-radius: 10px;"/>
   </a>
@@ -32,9 +32,9 @@
   <a href="mailto:akshayrajoriya77@gmail.com">
     <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=30" alt="Email" style="border-radius: 10px;"/>
   </a>
-</p>
+</p> -->
 
-<p align="center">
+<p align="center" gap="10px">
   <a href="https://linkedin.com/in/akshay-rajoriya">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40"/>
   </a>
