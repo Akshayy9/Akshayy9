@@ -63,9 +63,9 @@
 
 <div align="center">
   
-### 🔥 Contribution Streak
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=akshayrajoriya&theme=dark&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35" alt="GitHub Streak Stats" width="500"/>
+![](https://github-readme-stats.vercel.app/api?username=Akshayy9&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Akshayy9&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshayy9&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### GitHub Statistics
 
