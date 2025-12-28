@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on developing impactful and scalable web applications<br>🌱 I’m currently learning Full stack development<br>
+#                                                                 I'm Akshay Rajoriya
+🔭 I’m currently pursuing BTech CSE <br>👯 I’m looking to collaborate on developing impactful and scalable web applications<br>🌱 I’m currently learning Full stack development<br>
 
 
 ## 🌐 Socials:
