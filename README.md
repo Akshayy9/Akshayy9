@@ -34,7 +34,7 @@
   </a>
 </p> -->
 
-<p align="center" gap="10px">
+<p align="" gap="10px">
   <a href="https://linkedin.com/in/akshay-rajoriya">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40"/>
   </a>
@@ -53,7 +53,7 @@
 
 ## Tech Stack
 
-<p align="center">
+<p align="">
   <img src="https://skillicons.dev/icons?i=cpp,python,javascript,html,css,react,nodejs,firebase,postgres,vite,vercel,netlify,arduino&theme=dark&perline=7" />
 </p>
 
