@@ -34,18 +34,21 @@
   </a>
 </p> -->
 
-<p align="" gap="10px">
+<p align="center">
   <a href="https://linkedin.com/in/akshay-rajoriya">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" margin="5"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/akshyway">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" margin="5"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://x.com/Akshyway">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X" height="40" width="40" margin="5"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X" height="40" width="40"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:akshayrajoriya77@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" height="40" width="40" margin="5"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" height="40" width="40"/>
   </a>
 </p>
 
