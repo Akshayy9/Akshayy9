@@ -57,7 +57,7 @@
 ## Tech Stack
 
 <p align="">
-  <img src="https://skillicons.dev/icons?i=cpp,python,javascript,html,css,react,nodejs,firebase,mongodb,postgres,vite,vercel,netlify,arduino&theme=dark&perline=7" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,javascript,html,css,react,typescript,nodejs,expressjs,firebase,mongodb,postgres,vite,vercel,netlify,arduino&theme=dark&perline=7" />
 </p>
 
 ---
