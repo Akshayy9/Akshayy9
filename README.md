@@ -12,7 +12,7 @@
 
 -  Currently pursuing BTech CSE
 -  Looking to collaborate on developing impactful and scalable web applications
--  Currently learning Full Stack Development
+-  Full Stack & AI Developer
 -  Passionate about building innovative solutions
 
 ---
